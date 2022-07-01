@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuarisMM
+- 👋 Hi, I’m Muratcan
 - 👀 I’m interested in Blockchain and Backend Development
 - 🌱 I’m currently learning ReactJs and NodeJs
 - 📫 How to reach me quaristr@gmail.com
